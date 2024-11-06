@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+  
 void bubbleSort(int arr[], int sz) {
     int i, j;
     if (arr == NULL || sz <= 0) {
